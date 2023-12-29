@@ -1,0 +1,20 @@
+.oddNum {
+     background-color: #ffc0cb;
+     font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.bigger {
+     font-size: 24px;
+}
+
+#oneID {
+     color: #0000ff;
+     font-family: 'Ubuntu', sans-serif;
+     font-size: 36px;
+}
+
+#anotherID {
+     background-color: #90ee90;
+     font-family: 'Ubuntu', sans-serif;
+     font-weight: bold;
+}
