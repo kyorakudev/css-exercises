@@ -20,15 +20,14 @@ body {
 
 .content {
   background: #e3f4ff;
-  padding: 8px;
-  margin: 16px 8px;
+  padding: 8px 16px;
 }
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
   padding: 8px ;
-  margin: 8px;
+  margin-top: 8px;
 }
 
 button {
